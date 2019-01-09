@@ -1,0 +1,277 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+Este arquivo é usado pelo processo empacotar/publicar do seu projeto Web. É possível personalizar o comportamento desse processo
+ao editar esse arquivo MSBuild. Para saber mais sobre isso, acesse http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>http://localhost:56999/</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/ChampionsGame2015.dll">
+      <publishTime>11/27/2015 10:44:53</publishTime>
+    </File>
+    <File Include="bin/MySql.Data.dll">
+      <publishTime>11/07/2014 22:35:48</publishTime>
+    </File>
+    <File Include="Campeonatos.aspx">
+      <publishTime>10/22/2015 07:30:56</publishTime>
+    </File>
+    <File Include="Contato.aspx">
+      <publishTime>11/27/2015 10:40:25</publishTime>
+    </File>
+    <File Include="css/bootstrap.css">
+      <publishTime>11/27/2015 10:44:51</publishTime>
+    </File>
+    <File Include="css/bootstrap.min.css">
+      <publishTime>11/27/2015 10:44:51</publishTime>
+    </File>
+    <File Include="css/modern-business.css">
+      <publishTime>10/08/2015 14:30:18</publishTime>
+    </File>
+    <File Include="DadosCampeonato.aspx">
+      <publishTime>10/16/2015 08:33:31</publishTime>
+    </File>
+    <File Include="font-awesome/css/font-awesome.css">
+      <publishTime>10/07/2015 09:43:20</publishTime>
+    </File>
+    <File Include="font-awesome/css/font-awesome.min.css">
+      <publishTime>10/07/2015 09:43:23</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.eot">
+      <publishTime>10/07/2015 09:43:27</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.svg">
+      <publishTime>10/23/2015 21:13:44</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.ttf">
+      <publishTime>10/07/2015 09:43:40</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/fontawesome-webfont.woff">
+      <publishTime>10/07/2015 09:43:45</publishTime>
+    </File>
+    <File Include="font-awesome/fonts/FontAwesome.otf">
+      <publishTime>10/07/2015 09:43:49</publishTime>
+    </File>
+    <File Include="font-awesome/less/bordered-pulled.less">
+      <publishTime>10/07/2015 09:43:51</publishTime>
+    </File>
+    <File Include="font-awesome/less/core.less">
+      <publishTime>10/07/2015 09:43:52</publishTime>
+    </File>
+    <File Include="font-awesome/less/fixed-width.less">
+      <publishTime>10/07/2015 09:43:54</publishTime>
+    </File>
+    <File Include="font-awesome/less/font-awesome.less">
+      <publishTime>10/07/2015 09:43:55</publishTime>
+    </File>
+    <File Include="font-awesome/less/icons.less">
+      <publishTime>10/07/2015 09:43:58</publishTime>
+    </File>
+    <File Include="font-awesome/less/larger.less">
+      <publishTime>10/07/2015 09:43:59</publishTime>
+    </File>
+    <File Include="font-awesome/less/list.less">
+      <publishTime>10/07/2015 09:44:01</publishTime>
+    </File>
+    <File Include="font-awesome/less/mixins.less">
+      <publishTime>10/07/2015 09:44:02</publishTime>
+    </File>
+    <File Include="font-awesome/less/path.less">
+      <publishTime>10/07/2015 09:44:04</publishTime>
+    </File>
+    <File Include="font-awesome/less/rotated-flipped.less">
+      <publishTime>10/07/2015 09:44:05</publishTime>
+    </File>
+    <File Include="font-awesome/less/spinning.less">
+      <publishTime>10/07/2015 09:44:07</publishTime>
+    </File>
+    <File Include="font-awesome/less/stacked.less">
+      <publishTime>10/07/2015 09:44:09</publishTime>
+    </File>
+    <File Include="font-awesome/less/variables.less">
+      <publishTime>10/07/2015 09:44:10</publishTime>
+    </File>
+    <File Include="font-awesome/scss/font-awesome.scss">
+      <publishTime>10/07/2015 09:44:12</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_bordered-pulled.scss">
+      <publishTime>10/07/2015 09:44:14</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_core.scss">
+      <publishTime>10/07/2015 09:44:15</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_fixed-width.scss">
+      <publishTime>10/07/2015 09:44:17</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_icons.scss">
+      <publishTime>10/07/2015 09:44:19</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_larger.scss">
+      <publishTime>10/07/2015 09:44:21</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_list.scss">
+      <publishTime>10/07/2015 09:44:22</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_mixins.scss">
+      <publishTime>10/07/2015 09:44:24</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_path.scss">
+      <publishTime>10/07/2015 09:44:25</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_rotated-flipped.scss">
+      <publishTime>10/07/2015 09:44:27</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_spinning.scss">
+      <publishTime>10/07/2015 09:44:28</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_stacked.scss">
+      <publishTime>10/07/2015 09:44:30</publishTime>
+    </File>
+    <File Include="font-awesome/scss/_variables.scss">
+      <publishTime>10/07/2015 09:44:31</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.eot">
+      <publishTime>10/07/2015 09:34:52</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.svg">
+      <publishTime>10/23/2015 21:13:20</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.ttf">
+      <publishTime>10/07/2015 09:41:26</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff">
+      <publishTime>10/07/2015 09:41:28</publishTime>
+    </File>
+    <File Include="fonts/glyphicons-halflings-regular.woff2">
+      <publishTime>10/07/2015 09:41:31</publishTime>
+    </File>
+    <File Include="Galeria.aspx">
+      <publishTime>10/07/2015 09:33:09</publishTime>
+    </File>
+    <File Include="GridInscritos.aspx">
+      <publishTime>10/07/2015 09:33:16</publishTime>
+    </File>
+    <File Include="img/back.jpg">
+      <publishTime>10/07/2015 09:41:33</publishTime>
+    </File>
+    <File Include="img/background.jpg">
+      <publishTime>10/07/2015 09:41:58</publishTime>
+    </File>
+    <File Include="img/bocha.jpg">
+      <publishTime>10/07/2015 09:42:00</publishTime>
+    </File>
+    <File Include="img/Campeonatos/logo.jpg">
+      <publishTime>11/26/2015 21:25:21</publishTime>
+    </File>
+    <File Include="img/dede.jpg">
+      <publishTime>10/07/2015 09:42:04</publishTime>
+    </File>
+    <File Include="img/em_construcao.png">
+      <publishTime>10/07/2015 09:42:07</publishTime>
+    </File>
+    <File Include="img/equipe.png">
+      <publishTime>10/07/2015 09:42:17</publishTime>
+    </File>
+    <File Include="img/jellinek.jpg">
+      <publishTime>10/07/2015 09:42:19</publishTime>
+    </File>
+    <File Include="img/jorjão.jpg">
+      <publishTime>10/07/2015 09:42:20</publishTime>
+    </File>
+    <File Include="img/lauro.jpg">
+      <publishTime>10/07/2015 09:42:22</publishTime>
+    </File>
+    <File Include="img/login.jpg">
+      <publishTime>10/07/2015 09:42:25</publishTime>
+    </File>
+    <File Include="img/logo.jpg">
+      <publishTime>10/07/2015 09:42:26</publishTime>
+    </File>
+    <File Include="img/Logo2.png">
+      <publishTime>11/24/2015 20:02:13</publishTime>
+    </File>
+    <File Include="img/need.jpg">
+      <publishTime>10/07/2015 09:42:31</publishTime>
+    </File>
+    <File Include="img/passo1.jpg">
+      <publishTime>10/07/2015 09:42:33</publishTime>
+    </File>
+    <File Include="img/portal.jpg">
+      <publishTime>10/07/2015 09:42:39</publishTime>
+    </File>
+    <File Include="img/search-icon.jpg">
+      <publishTime>10/23/2015 21:19:41</publishTime>
+    </File>
+    <File Include="img/slide1.jpg">
+      <publishTime>10/08/2015 14:09:43</publishTime>
+    </File>
+    <File Include="img/slide2.png">
+      <publishTime>10/08/2015 14:15:15</publishTime>
+    </File>
+    <File Include="img/slide3.jpg">
+      <publishTime>10/08/2015 14:23:50</publishTime>
+    </File>
+    <File Include="img/street.jpg">
+      <publishTime>10/07/2015 09:42:47</publishTime>
+    </File>
+    <File Include="img/taça.jpg">
+      <publishTime>10/07/2015 09:42:49</publishTime>
+    </File>
+    <File Include="img/yaya.jpg">
+      <publishTime>10/07/2015 09:42:51</publishTime>
+    </File>
+    <File Include="index.aspx">
+      <publishTime>11/27/2015 10:14:20</publishTime>
+    </File>
+    <File Include="Inscritos.aspx">
+      <publishTime>10/07/2015 09:33:29</publishTime>
+    </File>
+    <File Include="js/bootstrap.js">
+      <publishTime>10/07/2015 09:42:54</publishTime>
+    </File>
+    <File Include="js/bootstrap.min.js">
+      <publishTime>10/07/2015 09:42:56</publishTime>
+    </File>
+    <File Include="js/contact_me.js">
+      <publishTime>10/07/2015 09:42:58</publishTime>
+    </File>
+    <File Include="js/jqBootstrapValidation.js">
+      <publishTime>10/07/2015 09:43:00</publishTime>
+    </File>
+    <File Include="js/jquery.js">
+      <publishTime>10/07/2015 09:43:04</publishTime>
+    </File>
+    <File Include="js/Mascaras.js">
+      <publishTime>10/16/2015 07:38:50</publishTime>
+    </File>
+    <File Include="js/masked.js">
+      <publishTime>10/15/2015 19:55:44</publishTime>
+    </File>
+    <File Include="layout.Master">
+      <publishTime>11/26/2015 15:36:38</publishTime>
+    </File>
+    <File Include="layout2.Master">
+      <publishTime>11/24/2015 20:40:33</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>11/19/2015 21:45:27</publishTime>
+    </File>
+    <File Include="Meu_Perfil.aspx">
+      <publishTime>11/27/2015 10:11:35</publishTime>
+    </File>
+    <File Include="Registro_de_Campeonato.aspx">
+      <publishTime>10/16/2015 08:22:12</publishTime>
+    </File>
+    <File Include="Registro_de_Jogador.aspx">
+      <publishTime>11/24/2015 19:59:53</publishTime>
+    </File>
+    <File Include="Sobre.aspx">
+      <publishTime>11/24/2015 20:19:43</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>11/27/2015 10:44:55</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

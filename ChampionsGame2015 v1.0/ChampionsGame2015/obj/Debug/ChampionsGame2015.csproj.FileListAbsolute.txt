@@ -1,0 +1,82 @@
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015\bin\ChampionsGame2015.dll
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015\bin\ChampionsGame2015.pdb
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
+C:\Users\Docs\Desktop\ChampionsGame2015\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+C:\Users\Docs\Desktop\ChampionsGame2015\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+C:\Users\Docs\Desktop\ChampionsGame2015\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
+C:\Users\Docs\Desktop\ChampionsGame2015\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+C:\Users\Docs\Desktop\ChampionsGame2015\ChampionsGame2015\bin\ChampionsGame2015.dll
+C:\Users\Docs\Desktop\ChampionsGame2015\ChampionsGame2015\bin\ChampionsGame2015.pdb
+E:\ChampionsGame2015\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+E:\ChampionsGame2015\ChampionsGame2015\bin\ChampionsGame2015.dll
+E:\ChampionsGame2015\ChampionsGame2015\bin\ChampionsGame2015.pdb
+E:\ChampionsGame2015\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+E:\ChampionsGame2015\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+E:\ChampionsGame2015\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+C:\Users\Lauro\Documents\ChampionsGame2015\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+C:\Users\Lauro\Documents\ChampionsGame2015\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+C:\Users\Lauro\Documents\ChampionsGame2015\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+C:\Users\Lauro\Documents\ChampionsGame2015\ChampionsGame2015\bin\ChampionsGame2015.dll
+C:\Users\Lauro\Documents\ChampionsGame2015\ChampionsGame2015\bin\ChampionsGame2015.pdb
+C:\Users\Lauro\Documents\ChampionsGame2015\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
+C:\Users\Jorge Junior\Desktop\ChampionsGame2015 (1)\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+C:\Users\Jorge Junior\Desktop\ChampionsGame2015 (1)\ChampionsGame2015\bin\ChampionsGame2015.dll
+C:\Users\Jorge Junior\Desktop\ChampionsGame2015 (1)\ChampionsGame2015\bin\ChampionsGame2015.pdb
+C:\Users\Jorge Junior\Desktop\ChampionsGame2015 (1)\ChampionsGame2015\bin\MySql.Data.dll
+C:\Users\Jorge Junior\Desktop\ChampionsGame2015 (1)\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+C:\Users\Jorge Junior\Desktop\ChampionsGame2015 (1)\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+C:\Users\Jorge Junior\Desktop\ChampionsGame2015 (1)\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
+C:\Users\henrique\Desktop\PCC_2015-2015-10-07\PCC 2015\ChampionsGame2015 (1)\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+C:\Users\henrique\Desktop\PCC_2015-2015-10-07\PCC 2015\ChampionsGame2015 (1)\ChampionsGame2015\bin\ChampionsGame2015.dll
+C:\Users\henrique\Desktop\PCC_2015-2015-10-07\PCC 2015\ChampionsGame2015 (1)\ChampionsGame2015\bin\ChampionsGame2015.pdb
+C:\Users\henrique\Desktop\PCC_2015-2015-10-07\PCC 2015\ChampionsGame2015 (1)\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+C:\Users\henrique\Desktop\PCC_2015-2015-10-07\PCC 2015\ChampionsGame2015 (1)\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+C:\Users\henrique\Desktop\PCC_2015-2015-10-07\PCC 2015\ChampionsGame2015 (1)\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
+C:\Users\Lauro\Google Drive\Henrique\aqui meus amigos\ChampionsGame2015 (1)\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+C:\Users\Lauro\Google Drive\Henrique\aqui meus amigos\ChampionsGame2015 (1)\ChampionsGame2015\bin\ChampionsGame2015.dll
+C:\Users\Lauro\Google Drive\Henrique\aqui meus amigos\ChampionsGame2015 (1)\ChampionsGame2015\bin\ChampionsGame2015.pdb
+C:\Users\Lauro\Google Drive\Henrique\aqui meus amigos\ChampionsGame2015 (1)\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+C:\Users\Lauro\Google Drive\Henrique\aqui meus amigos\ChampionsGame2015 (1)\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+C:\Users\Lauro\Google Drive\Henrique\aqui meus amigos\ChampionsGame2015 (1)\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
+C:\Users\Lauro\Google Drive\PCC 2015\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+C:\Users\Lauro\Google Drive\PCC 2015\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.dll
+C:\Users\Lauro\Google Drive\PCC 2015\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.pdb
+C:\Users\Lauro\Google Drive\PCC 2015\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+C:\Users\Lauro\Google Drive\PCC 2015\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+C:\Users\Lauro\Google Drive\PCC 2015\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
+H:\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+H:\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.dll
+H:\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.pdb
+H:\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+H:\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+H:\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
+C:\Users\Lauro\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+C:\Users\Lauro\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.dll
+C:\Users\Lauro\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.pdb
+C:\Users\Lauro\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+C:\Users\Lauro\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+C:\Users\Lauro\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
+C:\Users\Lauro\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\bin\MySql.Data.dll
+C:\Users\Docs\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+C:\Users\Docs\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.dll
+C:\Users\Docs\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.pdb
+C:\Users\Docs\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+C:\Users\Docs\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+C:\Users\Docs\Desktop\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
+C:\Users\Lauro\Desktop\PCC\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+C:\Users\Lauro\Desktop\PCC\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.dll
+C:\Users\Lauro\Desktop\PCC\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.pdb
+C:\Users\Lauro\Desktop\PCC\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\bin\MySql.Data.dll
+C:\Users\Lauro\Desktop\PCC\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+C:\Users\Lauro\Desktop\PCC\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+C:\Users\Lauro\Desktop\PCC\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.dll.config
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.dll
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\bin\ChampionsGame2015.pdb
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\bin\MySql.Data.dll
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.csprojResolveAssemblyReference.cache
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.dll
+C:\Users\Lauro\Desktop\ChampionsGame2015\ChampionsGame2015 v1.0\ChampionsGame2015\obj\Debug\ChampionsGame2015.pdb
