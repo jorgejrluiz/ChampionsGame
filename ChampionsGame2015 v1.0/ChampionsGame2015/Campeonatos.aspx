@@ -46,7 +46,7 @@
                     ChampionsGame2015.CODE.CampeonatoBLL.CampeonatoBLL campeonato = new ChampionsGame2015.CODE.CampeonatoBLL.CampeonatoBLL();
                     System.Data.DataTable data = campeonato.ListarCampeonato();
 
-                    int contador = 3;
+                    int contador = 5;
 
                     for (int i = 0; i < data.Rows.Count; i++)
                     {
@@ -58,7 +58,7 @@
 
 
                     }
-                    if (contador == 3)
+                    if (contador == 5)
                     {
                         contador = 0;
                         Response.Write("<br></br>");
